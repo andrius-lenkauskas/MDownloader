@@ -1,4 +1,7 @@
 MDownloader
 ===========
-
-java based file downloader
+This application is used to download files having their urls. Each row must have pattern below:
+new file name or can leave empty and file url
+example: test name http://www.oracleimg.com/us/dm/java-white-2162484.bmp
+after this you will get file with name test_name.bmp
+This application attempts to download files with pattern file_name, file_name_1, ..., file_name_10, because from beginning it was designed to fetch photos of items from a different sides
